@@ -1,0 +1,8 @@
+C:\Users\SANJU\Documents\Visual Studio 2012\Projects\Ajay\Crowe-Horwath-Test\Crowe-Horwath-Test\bin\Debug\Crowe-Horwath-Test.exe.config
+C:\Users\SANJU\Documents\Visual Studio 2012\Projects\Ajay\Crowe-Horwath-Test\Crowe-Horwath-Test\bin\Debug\Crowe-Horwath-Test.exe
+C:\Users\SANJU\Documents\Visual Studio 2012\Projects\Ajay\Crowe-Horwath-Test\Crowe-Horwath-Test\bin\Debug\Crowe-Horwath-Test.pdb
+C:\Users\SANJU\Documents\Visual Studio 2012\Projects\Ajay\Crowe-Horwath-Test\Crowe-Horwath-Test\bin\Debug\HelloWorldAPI.dll
+C:\Users\SANJU\Documents\Visual Studio 2012\Projects\Ajay\Crowe-Horwath-Test\Crowe-Horwath-Test\bin\Debug\HelloWorldAPI.pdb
+C:\Users\SANJU\Documents\Visual Studio 2012\Projects\Ajay\Crowe-Horwath-Test\Crowe-Horwath-Test\obj\Debug\HelloWorldConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\SANJU\Documents\Visual Studio 2012\Projects\Ajay\Crowe-Horwath-Test\Crowe-Horwath-Test\obj\Debug\Crowe-Horwath-Test.exe
+C:\Users\SANJU\Documents\Visual Studio 2012\Projects\Ajay\Crowe-Horwath-Test\Crowe-Horwath-Test\obj\Debug\Crowe-Horwath-Test.pdb
